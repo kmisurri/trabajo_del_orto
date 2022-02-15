@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1644378785 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\lung-jeremias44132530\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pasajeros.h"
+	"aviones.h"
+
+1644373225 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\lung-jeremias44132530\pasajeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pasajeros.h"
+
+1644371408 c:\users\jerry\desktop\jere facu\programaciones\tp3\lung-jeremias44132530\pasajeros.h
+
+1644378675 c:\users\jerry\desktop\jere facu\programaciones\tp3\lung-jeremias44132530\aviones.h
+
+1644379041 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\lung-jeremias44132530\aviones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aviones.h"
+
+1644907086 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pasajeros.h"
+	"aviones.h"
+	"viajes.h"
+
+1644371408 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\pasajeros.h
+
+1644907641 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\aviones.h
+
+1644451629 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\pasajeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pasajeros.h"
+
+1644631067 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\viajes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"viajes.h"
+	"pasajeros.h"
+	"aviones.h"
+
+1644906648 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\aviones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aviones.h"
+
+1644518441 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530 revalida\viajes.h
+

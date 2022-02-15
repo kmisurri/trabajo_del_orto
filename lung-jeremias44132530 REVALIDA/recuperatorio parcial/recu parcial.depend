@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1638298234 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\stock.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638297424 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\ventas.c
+
+1638298077 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638293707 c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\clientes.h
+	<stdbool.h>
+
+1638297954 c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\stock.h
+	<stdbool.h>
+
+1638297424 c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\ventas.h
+
+1638298110 source:c:\users\jerry\desktop\jere facu\programaciones\tp3\recu parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638298867 source:c:\users\jerry\desktop\jere facu\programaciones\recu parcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638293707 c:\users\jerry\desktop\jere facu\programaciones\recu parcial\clientes.h
+	<stdbool.h>
+
+1638300766 c:\users\jerry\desktop\jere facu\programaciones\recu parcial\stock.h
+	<stdbool.h>
+
+1638297424 c:\users\jerry\desktop\jere facu\programaciones\recu parcial\ventas.h
+
+1638298110 source:c:\users\jerry\desktop\jere facu\programaciones\recu parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638300846 source:c:\users\jerry\desktop\jere facu\programaciones\recu parcial\stock.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638297424 source:c:\users\jerry\desktop\jere facu\programaciones\recu parcial\ventas.c
+
+1638298867 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530\recuperatorio parcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
+1638293707 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530\recuperatorio parcial\clientes.h
+	<stdbool.h>
+
+1638300766 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530\recuperatorio parcial\stock.h
+	<stdbool.h>
+
+1638303933 c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530\recuperatorio parcial\ventas.h
+
+1638300846 source:c:\users\jerry\desktop\jere facu\programaciones\lung-jeremias44132530\recuperatorio parcial\stock.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"stock.h"
+	"ventas.h"
+	<string.h>
+	<stdbool.h>
+
